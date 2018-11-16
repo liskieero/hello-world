@@ -1,4 +1,6 @@
 # hello-world
 very simple project
 
-This is some example edit text.
+I deleted some text.
+
+I added some new text.
